@@ -2,8 +2,16 @@ a = int(input('Введите число a: '))  # Ваш код
 b = int(input('Введите число b: '))  # Ваш код
 
 # Ваш код
-а, b = b, a
-print(b)
+a, b = b, a
+
+# temp = a
+# a = b
+# b = temp
 
 print("Значения после перестановки:")
-print(f'a = {a}\nb = {b}')  # Ваш код
+print(f'a = {a}\nb = {b}')
+
+#
+# table = phone
+# phone = laptop
+# laptop = table

@@ -1,6 +1,4 @@
 print("Эльмор: Приветствую вас, путник! Я загадал вам одну загадку.")
-user_input = input('Введите свой ответ: ')  # Ваш код
+user_input = input('Введите свой ответ: ')
 
-result = user_input != ''  # Ваш код
-
-print('Эльмор: ', result)  # Ваш код
+print('Эльмор: ', bool(user_input))
