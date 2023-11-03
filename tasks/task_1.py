@@ -1,5 +1,5 @@
-number = int(input())  # Ваш код
+number = int(input())
 
-result = 'Pyth' + 'o' * number + 'n'  # Ваш код
+result = 'Pyth' + 'o' * number + 'n'
 
 print(result)
