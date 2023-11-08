@@ -15,3 +15,5 @@ product_digits = hundreds * tens * units
 
 print('Сумма цифр: ', sum_digits)
 print('Произведение цифр: ', product_digits)
+
+# TODO: Переделать
